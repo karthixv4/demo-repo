@@ -1,0 +1,13 @@
+{
+  "name": "demo-repo",
+  "version": "1.0.0",
+  "description": "Demo repository for A-RCA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
