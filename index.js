@@ -1,4 +1,4 @@
-const _ = require('non-existent-package');
+const _ = require('non-existent-pacge');
 
 function greet(name) {
   // This uses a lodash function.
